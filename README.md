@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### 😄  bringing crypto primitives into machine learning Multiparty computation, Private Set Intersection, and so on.
+#### 🔭  on the way to be a cryptographer standing on the shoulders of giants.
+
 <!--
 **7feilee/7feilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
