@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-#### 😄  bringing crypto primitives into machine learning Multiparty computation, Private Set Intersection, and so on.
+#### 🤔  Computer science major, also love mathematics especially number theory(Groups, Rings and Fields).
+#### 😄  bringing cryptographic primitives into privacy preserving machine learning and interested in privacy enhancing technologies for example secure multi-party computation, private set intersection, homomorphic encryption and private information retrieval.
 #### 🔭  on the way to be a cryptographer standing on the shoulders of giants.
-
+#### ⚡  Hobby: adventure in nature and network.
 <!--
 **7feilee/7feilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
