@@ -1,1 +1,1 @@
-### Security Researcher && natural language enthusiast
+### Cyber Security Researcher && Natural Language Enthusiast
