@@ -1,1 +1,1 @@
-### Cyber Security Researcher && Natural Language Enthusiast
+# Privacy is the luxury in new era.
